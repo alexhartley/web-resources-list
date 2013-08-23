@@ -2,19 +2,19 @@ Tools
 
 ## Frameworks / prototyping / templates
 
-[http://getbootstrap.com](Bootstrap) - Front end framework / grid system
+[Bootstrap](http://getbootstrap.com) - Front end framework / grid system
 
-[http://foundation.zurb.com](Foundation) - Front end framework / grid system
+[Foundation](http://foundation.zurb.com) - Front end framework / grid system
 
-[http://neat.bourbon.io](Bourbon Neat) - Front end framework / grid system
+[Bourbon Neat](http://neat.bourbon.io) - Front end framework / grid system
 
-[http://960.gs](960 grid system) - includes templates for Photoshop & Fireworks
+[960 grid system](http://960.gs) - includes templates for Photoshop & Fireworks
 
-[http://fireapp.handlino.com](Fire App) - Easy HTML prototyping
+[Fire App](http://fireapp.handlino.com) - Easy HTML prototyping
 
-[http://www.mindmeister.com](MindMeister) - create mind maps / sitemaps
+[MindMeister](http://www.mindmeister.com) - create mind maps / sitemaps
 
-[http://www.protoshare.com](Protoshare) - Create wireframes
+[Protoshare](http://www.protoshare.com) - Create wireframes
 
-[http://www.initializr.com](Initializr) - Start an HTML5 project quickly
+[Initializr](http://www.initializr.com) - Start an HTML5 project quickly
 
