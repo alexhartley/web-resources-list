@@ -17,4 +17,3 @@ Tools
 [Protoshare](http://www.protoshare.com) - Create wireframes
 
 [Initializr](http://www.initializr.com) - Start an HTML5 project quickly
-
