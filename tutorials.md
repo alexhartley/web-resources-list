@@ -31,3 +31,36 @@ Tutorials
 
 ## HTML5 / CSS3 / JQuery
 
+[10 HTML & CSS3 tutorials](http://collapsehtml5.wordpress.com/2013/08/06/cool-html5-tutorials-that-make-web-designing-task-easier/)
+
+[10 Advanced HTML5 and CSS3 tutorials - volume 2](http://collapsehtml5.wordpress.com/2013/08/19/advanced-html5-and-css3-coders-tutorials-of-2013/)
+
+[What's new in HTML5](http://webdesign.about.com/od/html5/a/html_5_whats_new.htm)
+
+[http://html5please.com](http://html5please.com) - lists HTML5 features
+
+[10 tips to create effective HTML5 layouts](http://www.htmlgoodies.com/html5/markup/10-tips-to-create-effective-html5-layouts.html#fbid=l65MfPbJ8Vd)
+
+[Useful HTML5 features which eliminate the need for JS](http://www.hudku.com/blog/html5-features-eleminate-javascript/)
+
+[17 best CSS3 tutorials](http://www.designerledger.com/best-css3-tutorials/)
+
+[Create a CSS3 button with slide effect](http://www.tutorialscode.com/2013/08/create-css3-button-with-slide-effect_10.html)
+
+[Creating arrows using CSS](http://thepixelweb.com/creating-arrows-using-css/)
+
+[Learn CSS animation in 1 minute](http://xahlee.info/js/css_animation.html)
+
+[15 best parallax scrolling tutorials](http://inspiretrends.com/parallax-scrolling-tutorials/)
+
+[Introduction to making HTML / Javascript games with coquette.js](http://superbigtree.tumblr.com/post/57993562778/introduction-to-making-html5-javascript-games-with)
+
+[35 drop down menu tutorials in HTML5, CSS3 and jQuery](http://inspiretrends.com/drop-down-menu-tutorials/)
+
+[15 tabbed navigation tutorials](http://inspiretrends.com/tabs-navigation-tutorials/)
+
+[Google Nexus website menu](http://tympanus.net/Tutorials/GoogleNexusWebsiteMenu/)
+
+[Caption hover effects](http://tympanus.net/codrops/2013/06/18/caption-hover-effects/)
+
+[Creative link hover effects](http://tympanus.net/codrops/2013/08/06/creative-link-effects/)
