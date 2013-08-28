@@ -58,6 +58,8 @@ Tools
 
 [30 jQuery plugins](http://www.designerledger.com/jquery-plugins-designers-should-check-today/) - 30 jQuery plugins
 
+[NProgress.js](http://ricostacruz.com/nprogress/) - Nanoscopic progress bar with trickle animation
+
 
 ## HTML5
 
@@ -78,6 +80,7 @@ Tools
 
 [Optimise CSS](http://inspiretrends.com/11-tools-for-optimizing-and-formatting-css-code/) - 11 tools for optimising & formatting CSS
 
+[CSS Gradient Editor](http://www.colorzilla.com/gradient-editor/) - Photoshop-like CSS3 gradient editor, good cross-browser support
 
 ## Fonts / icons
 
