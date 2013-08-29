@@ -60,6 +60,8 @@ Tools
 
 [NProgress.js](http://ricostacruz.com/nprogress/) - Nanoscopic progress bar with trickle animation
 
+[Intention.js](http://intentionjs.com) - Dynamically restructure HTML in a responsive manner
+
 
 ## HTML5
 
