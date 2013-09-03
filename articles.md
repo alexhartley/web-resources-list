@@ -31,3 +31,5 @@ Articles
 [The anatomy of a horrible web design client](http://www.topwebdesignschools.org/design-clients/)
 
 [Smashing Magazine - Webkit has implemented srcset, and it's a good thing](http://mobile.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
+
+[30 Web Design Twitter accounts worth following](http://spyderweb.co/blog/2013/09/02/web-design-twitter/)
