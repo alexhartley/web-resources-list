@@ -33,6 +33,9 @@ Tutorials
 
 [Adobe's tutorial page](http://www.adobe.com/cfusion/exchange/index.cfm?l=-1&cat=212&event=producthome&s=5&exc=17) 
 
+## Icons & Fonts
+
+[How to make an icon font](http://blogs.atlassian.com/2013/07/how-to-make-an-icon-font-the-8-step-guide/)
 
 ## Joomla
 
