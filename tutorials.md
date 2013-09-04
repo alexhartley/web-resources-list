@@ -6,6 +6,8 @@ Tutorials
 
 [Making Selections With The Pen Tool In Photoshop](http://www.photoshopessentials.com/basics/selections/pen-tool-selections/)
 
+[taunt.com >> Photoshop Tutorial >> Photoshop Pen Tool](http://www.youtube.com/watch?v=IDrtyNmp3A4)
+
 ## Fireworks
 
 [Creating a Glass Button in Fireworks](http://www.ultraweaver.com/2010/03/creating-a-glass-button-in-adobe-fireworks/)
