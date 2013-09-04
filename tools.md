@@ -18,7 +18,7 @@ Tools
 
 [Initializr](http://www.initializr.com) - Start an HTML5 project quickly
 
-## jQuery / Javascript plugins
+## jQuery / Javascript
 
 [jQuery UI Widgets](http://wijmo.com ) - JQuery UI widgets
 
@@ -62,6 +62,7 @@ Tools
 
 [Intention.js](http://intentionjs.com) - Dynamically restructure HTML in a responsive manner
 
+[Picturefill](https://github.com/scottjehl/picturefill) - A Responsive Images approach that you can use today that mimics the proposed picture element using spans, for safety sake. 
 
 ## HTML5
 
