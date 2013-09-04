@@ -1,6 +1,14 @@
 Tutorials
 
+## Photoshop
+
+[How to Use Photoshop’s Pen Tool](http://www.melissaevans.com/tutorials/how-to-use-photoshops-pen-tool)
+
+[Making Selections With The Pen Tool In Photoshop](http://www.photoshopessentials.com/basics/selections/pen-tool-selections/)
+
 ## Fireworks
+
+[Creating a Glass Button in Fireworks](http://www.ultraweaver.com/2010/03/creating-a-glass-button-in-adobe-fireworks/)
 
 [50 Fireworks tutorials](http://www.noupe.com/tutorial/50-excellent-examples-of-adobe-fireworks-tutorials.html)
 
