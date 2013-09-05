@@ -12,6 +12,18 @@ Tutorials
 
 [Photoshop's Pen Tool - Comprehensive Guide](http://psd.tutsplus.com/tutorials/tools-tips/photoshops-pen-tool-the-comprehensive-guide/)
 
+## Sketch
+
+[Bohemian Coding's Sketch Tutorials Page](http://bohemiancoding.com/sketch/tutorials/)
+
+[Sketch Resource List](http://mattreich.net/journal/sketch-resource-list)
+
+[Sketch Tips & Tricks Blog](http://sketchtips.tumblr.com)
+
+[Sketch by Bohemian Coding Tutorial - Vector Surf Logo](https://vimeo.com/59696549)
+
+[Sketch 2 by Bohemian Coding Tutorial and Walkthrough](http://showyou.com/escapist/y%3AwIodpWdvqaU)
+
 ## Fireworks
 
 [Creating a Glass Button in Fireworks](http://www.ultraweaver.com/2010/03/creating-a-glass-button-in-adobe-fireworks/)
