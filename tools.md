@@ -18,6 +18,10 @@ Tools
 
 [Initializr](http://www.initializr.com) - Start an HTML5 project quickly
 
+[Divshot](http://www.divshot.com) - Easy prototyping in Bootstrap & beyond
+
+[Easel](https://www.easel.io) - Another easy prototyping tool for Bootstrap etc.
+
 ## jQuery / Javascript
 
 [jQuery UI Widgets](http://wijmo.com ) - JQuery UI widgets
