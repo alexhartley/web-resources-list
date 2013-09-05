@@ -10,6 +10,8 @@ Tutorials
 
 [Photoshop For Beginners: The Pen Tool](http://wegraphics.net/blog/tutorials/photoshop/photoshop-for-beginners-the-pen-tool/)
 
+[Photoshop's Pen Tool - Comprehensive Guide](http://psd.tutsplus.com/tutorials/tools-tips/photoshops-pen-tool-the-comprehensive-guide/)
+
 ## Fireworks
 
 [Creating a Glass Button in Fireworks](http://www.ultraweaver.com/2010/03/creating-a-glass-button-in-adobe-fireworks/)
