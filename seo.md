@@ -6,6 +6,8 @@ SEO
 
 [Jan Klin's blog](http://www.janklin.com/blog/)
 
+[Google's 200 ranking factors](http://cdn.dropmark.com/56519/eb5383bc1fe5d50b73e3dbc60c78a215292bc1db/ranking_factors_infographic_2.jpg)
+
 ## Tools
 
 [Ranks.nl Page Analyzer](http://www.ranks.nl/tools/spider.html) - Check on-page optimisation
