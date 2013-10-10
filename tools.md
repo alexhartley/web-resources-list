@@ -97,6 +97,10 @@ Tools
 
 [TypeWonder](http://typewonder.com) - Test web fonts on any site on the fly
 
+## Editors
+
+[StackEdit: Markdown editor](http://benweet.github.io/stackedit/)
+
 
 ## Misc 
 
