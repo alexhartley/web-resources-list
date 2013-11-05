@@ -99,7 +99,7 @@ Tools
 
 ## Editors
 
-[StackEdit: Markdown editor](http://benweet.github.io/stackedit/)
+[StackEdit: Markdown editor](https://stackedit.io/)
 
 ## Data Visualisation
 
