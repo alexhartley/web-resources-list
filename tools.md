@@ -97,6 +97,8 @@ Tools
 
 [TypeWonder](http://typewonder.com) - Test web fonts on any site on the fly
 
+[fontello](http://fontello.com/) - Lets you combine icon webfonts for your own project.
+
 ## Editors
 
 [StackEdit: Markdown editor](https://stackedit.io/)
