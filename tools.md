@@ -107,6 +107,8 @@ Tools
 
 [Pizza Pie Charts](http://zurb.com/playground/pizza-pie-charts) - Creating responsive pie charts for any device is a piece of pie.
 
+[Chart.js](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+
 ## Misc 
 
 [20 underrated design tools](http://spyderweb.co/blog/2013/08/20/underrated-web-design-tools-2013/) - 20 underrated web design tools in 2013
